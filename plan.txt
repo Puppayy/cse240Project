@@ -1,0 +1,24 @@
+Here is a timetable for the final weeks of this project:
+
+Week 10: 
+- Fix dynamic solution to the grouping of lines in mutli-threading.
+- Research more optimal data structures, and algorithms.
+
+Week 11: 
+- Implement previous weeks research (Create header files)
+- Create makefile
+- Research thread object compilation issue
+- Any further research on optimizing
+
+Week 12: 
+- Continue week 11 work
+
+Week 13:
+- Complete makefile, headerfiles, and optimization.
+- Begin debugging
+
+Week 14:
+- Finish debugging
+
+Week 15:
+- Submit final project

@@ -1,0 +1,13 @@
+About Thread Object(C++): https://www.cplusplus.com/reference/thread/thread/Links to an external site.
+
+Multithreading (C++): https://www.geeksforgeeks.org/multithreading-in-cpp/Links to an external site.
+
+Tutorial: https://www.educative.io/blog/modern-multithreading-and-concurrency-in-cppLinks to an external site.
+
+Stack Overflow: https://stackoverflow.com/questions/266168/simple-example-of-threading-in-c
+
+Thread (object): https://www.cplusplus.com/reference/thread/thread/
+
+Map: https://www.cplusplus.com/reference/map/map/
+
+Compilation Issue: https://stackoverflow.com/questions/37652969/multithreading-c-passing-arguments-to-a-function?rq=1
